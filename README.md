@@ -6,7 +6,7 @@ My Linkedin profile:
 
 ## Objective
 
-Interest in security, especially in areas involving tactics, techniques, and procedures (TTPs) employed by threat actors.
+Interest in cybersecurity, especially in areas involving tactics, techniques, and procedures (TTPs) employed by threat actors.
 
 ## Skills
 
