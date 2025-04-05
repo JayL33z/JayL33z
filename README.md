@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello
 
-<!--
-**JayL33z/JayL33z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Linkedin: <a href="https://www.linkedin.com/in/jaylimzjinzhi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interest in cybersecurity, especially in areas involving tactics, techniques, and procedures (TTPs) employed by threat actors.
+
+## Skills
+
+|-----------------------------------------------|
+| C/C++ Programming          |
+| Data structures and Algorithms | 
+| Assembly Language        |
+| Reverse Engineering and Malware Analysis using Ghidra SRE      |
+| Scripting and Automation in Python, PowerShell, and Bash                 |
+| Penetration Testing |
+| Windows and Linux OS Administration |
+|-----------------------------------------------|
