@@ -17,3 +17,7 @@ Interest in cybersecurity, especially in areas involving tactics, techniques, an
 - Scripting and Automation in Python, PowerShell, and Bash                 
 - Penetration Testing 
 - Windows and Linux OS Administration 
+
+## Projects
+- <a href="https://github.com/JayL33z/CTF">Write-ups on Capture-The-Flag (CTF)</a>
+  
