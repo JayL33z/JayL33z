@@ -11,13 +11,16 @@ Interest in cybersecurity, especially in areas involving tactics, techniques, an
 ## Skills
 
 - C/C++ Programming          
-- Data structures and Algorithms 
-- Assembly Language        
-- Reverse Engineering and Malware Analysis using Ghidra SRE      
+- Data structures and Algorithms
+- Penetration Testing
+- Malware Analysis 
+- Assembly Language
+- Reverse Engineering         
 - Scripting and Automation in Python, PowerShell, and Bash                 
-- Penetration Testing 
+
 - Windows and Linux OS Administration 
 
 ## Projects
 - <a href="https://github.com/JayL33z/CTF">Write-ups on Capture-The-Flag (CTF)</a>
+- Write-ups on malware analysis (work-in-progress)
   
