@@ -8,19 +8,14 @@ My Linkedin profile:
 
 Interest in cybersecurity, especially in areas involving tactics, techniques, and procedures (TTPs) employed by threat actors.
 
-## Skills
+## Core Skills
 
-- C/C++ Programming          
-- Data structures and Algorithms
-- Penetration Testing
-- Malware Analysis 
-- Assembly Language
-- Reverse Engineering         
-- Scripting and Automation in Python, PowerShell, and Bash                 
+| Skill Description      | - Certifications </br> - Courses Completed | Projects  |
+| ----------- | ----------- | ----------- |
+| - Programming (C, C++, Python, Assembly, PowerShell, Bash) </br> - Data structures and algorithms | N/A       |  N/A      |
+| Penetration Testing   | PNPT in-progress        | <a href="https://github.com/JayL33z/CTF">Write-ups on Capture-The-Flag (CTF)</a>        |
+|    Reverse engineering   | PMRP in-progress       | Write-ups on malware analysis       |
+| Network/Host-based intrusion analysis   | PSAA in-progress        | N/A        |
+|       |        |        |
 
-- Windows and Linux OS Administration 
-
-## Projects
-- <a href="https://github.com/JayL33z/CTF">Write-ups on Capture-The-Flag (CTF)</a>
-- Write-ups on malware analysis (work-in-progress)
   
