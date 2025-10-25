@@ -10,12 +10,9 @@ Interest in cybersecurity, especially in areas involving tactics, techniques, an
 
 ## Projects
 
-| Skills      | Projects  |
-| ----------- | ----------- |
-| - Programming (C, C++, Python, Assembly, PowerShell, Bash) </br> - Data structures and algorithms |   N/A      |
-| Penetration Testing   | <a href="https://github.com/JayL33z/CTF">Write-ups on Capture-The-Flag (CTF)</a>        |
-|    Reverse engineering   |  Write-ups on malware analysis       |
-| Network/Host-based intrusion analysis   |  N/A        |
-|       |        |
+| Projects  |
+| ----------- |
+| <a href="https://github.com/JayL33z/CTF">Write-ups on Capture-The-Flag (CTF)</a>        |
+|       |
 
   
