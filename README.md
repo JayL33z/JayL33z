@@ -12,7 +12,7 @@ Interest in cybersecurity, especially in areas involving tactics, techniques, an
 
 | Projects  |
 | ----------- |
-| <a href="https://github.com/JayL33z/CTF">Write-ups on Capture-The-Flag (CTF)</a>        |
+| <a href="https://github.com/JayL33z/CTF">Write-ups on Red Team Capture-The-Flag (CTF)</a>     |
 |       |
 
   
