@@ -21,7 +21,7 @@ I’m always looking for opportunities to apply my skills in a professional envi
 
 | ⚔ ATTACK <br/> Focus: finding weaknesses, exploiting vulnerabilities, simulating adversaries |
 | ----------- |
-| <a href="https://github.com/JayL33z/CTF">Write-ups on Red Team Capture-The-Flag (CTF)</a>     |
+| <a href="https://github.com/JayL33z/CTF"> Red Team CTF / HackTheBox writeups </a>     |
 |       |
 <br/>
 <br/>
