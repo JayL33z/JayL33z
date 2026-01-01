@@ -34,7 +34,7 @@ I’m always looking for opportunities to apply my skills in a professional envi
 | 🛡 DEFEND <br/> Focus: detection, response, monitoring, hardening, forensics. |
 | ----------- |
 | <a href="https://github.com/JayL33z/SOC-Case-Studies"> SOC Incident Case Study Reports </a>     |
-| <a href="https://github.com/JayL33z/Malware-Case-Studies"> Malware Analysis Case Study Reports (Work-In-Progress) </a>    |
+| <a href="https://github.com/JayL33z/Malware-Case-Studies"> Malware Analysis Case Study Reports </a>    |
 | Blue Team CTF writeups (Work-In-Progress)    |
 |       |
 <br/>
