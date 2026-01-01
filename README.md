@@ -1,5 +1,5 @@
 # Hello
-I am Jay.
+I am Jay from SG.
 <br/>
 👨‍💻 + 🔒 = 🔓
 <br/>
@@ -19,7 +19,9 @@ I’m driven by curiosity and continuous learning, and I’m always exploring ne
 
 I’m always looking for opportunities to apply my skills in a professional environment; contributing to security teams, building reliable defenses, and helping organizations stay ahead of evolving threats.
 
-## Projects
+## Personal Projects
+
+*Below are personal projects which are mainly educational and they are conducted in a safe and authorized environment.*
 
 | ⚔ ATTACK <br/> Focus: finding weaknesses, exploiting vulnerabilities, simulating adversaries |
 | ----------- |
@@ -42,3 +44,14 @@ I’m always looking for opportunities to apply my skills in a professional envi
 | ----------- |
 | Work-In-Progress    |
 |       |
+<br/>
+<br/>
+
+## Public references for Threat Intelligence and Frameworks
+A list of useful public references for threat intelligence including alerts and advisories, and frameworks.
+- <a href="https://www.csa.gov.sg/alerts-and-advisories/"> CSA Alert & Advisories </a>
+- <a href="https://medium.com/mitre-attack"> MITRE ATT&CK® Blog </a>
+- <a href="https://www.darkreading.com/"> Dark Reading </a>
+- <a href="https://krebsonsecurity.com/"> Krebs on Security </a>
+
+
