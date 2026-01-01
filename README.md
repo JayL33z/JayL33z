@@ -21,13 +21,17 @@ I’m always looking for opportunities to apply my skills in a professional envi
 
 | ⚔ ATTACK <br/> Focus: finding weaknesses, exploiting vulnerabilities, simulating adversaries |
 | ----------- |
-| <a href="https://github.com/JayL33z/CTF"> Red Team CTF / HackTheBox writeups </a>     |
+| Penetration Test Case Study Report #001: Small Restaurant Security Assessment [Work-In-Progress]     |
+| Penetration Test Case Study Report #002: Small and Medium Enterprise (SME) Business Security Assessment [Work-In-Progress]     |
+| <a href="https://github.com/JayL33z/CTF"> Red Team CTF writeups </a>     |
 |       |
 <br/>
 <br/>
 
 | 🛡 DEFEND <br/> Focus: detection, response, monitoring, hardening, forensics. |
 | ----------- |
+| SOC Incident Case Study Report #001 [Work-In-Progress]     |
+| SOC Incident Case Study Report #002 [Work-In-Progress]     |
 | Work-In-Progress    |
 |       |
 <br/>
