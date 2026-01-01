@@ -10,7 +10,9 @@ I am Jay.
 
 ## About
 
-I’m a cybersecurity practitioner focused on building, breaking, and securing systems through hands-on, real-world projects. I enjoy turning complex security challenges into clear, actionable solutions; whether it is about detecting threats, finding vulnerabilities, hardening infrastructure, or automating defensive workflows. My work revolves around practical experimentation; building labs, analyzing attacks, and developing tools that improve security visibility and resilience.
+I’m a cybersecurity practitioner focused on building, breaking, and securing systems through hands-on, real-world projects. 
+
+I enjoy turning complex security challenges into clear, actionable solutions; whether it is about detecting threats, finding vulnerabilities, hardening infrastructure, or automating defensive workflows. My work revolves around practical experimentation; building labs, analyzing attacks, and developing tools that improve security visibility and resilience.
 
 My projects reflect a mix of offensive, defensive and engineering skills. These include ethical hacking, threat detection, malware analysis, creating secure systems and tools etc. 
 I’m driven by curiosity and continuous learning, and I’m always exploring new technologies, techniques, and frameworks to strengthen my craft.
@@ -21,8 +23,7 @@ I’m always looking for opportunities to apply my skills in a professional envi
 
 | ⚔ ATTACK <br/> Focus: finding weaknesses, exploiting vulnerabilities, simulating adversaries |
 | ----------- |
-| Penetration Test Case Study Report #001: Small Restaurant Security Assessment [Work-In-Progress]     |
-| Penetration Test Case Study Report #002: Small and Medium Enterprise (SME) Business Security Assessment [Work-In-Progress]     |
+| <a href="https://github.com/JayL33z/Pentest-Case-Studies"> Penetration Test Case Study Reports </a>     |
 | <a href="https://github.com/JayL33z/CTF"> Red Team CTF writeups </a>     |
 |       |
 <br/>
@@ -30,8 +31,7 @@ I’m always looking for opportunities to apply my skills in a professional envi
 
 | 🛡 DEFEND <br/> Focus: detection, response, monitoring, hardening, forensics. |
 | ----------- |
-| SOC Incident Case Study Report #001 [Work-In-Progress]     |
-| SOC Incident Case Study Report #002 [Work-In-Progress]     |
+| SOC Incident Case Study Reports     |
 | Work-In-Progress    |
 |       |
 <br/>
