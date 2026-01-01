@@ -50,8 +50,8 @@ I’m always looking for opportunities to apply my skills in a professional envi
 ## Public references for Threat Intelligence and Frameworks
 A list of useful public references for threat intelligence including alerts and advisories, and frameworks.
 - <a href="https://www.csa.gov.sg/alerts-and-advisories/"> CSA Alert & Advisories </a>
-- <a href="https://medium.com/mitre-attack"> MITRE ATT&CK® Blog </a>
 - <a href="https://www.darkreading.com/"> Dark Reading </a>
 - <a href="https://krebsonsecurity.com/"> Krebs on Security </a>
+- <a href=https://attack.mitre.org/""> MITRE ATT&CK® Framework </a>
 
 
